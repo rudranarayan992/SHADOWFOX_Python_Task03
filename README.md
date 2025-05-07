@@ -1,39 +1,41 @@
+SHADOWFOX_Python_Task03/
+│
+├── justice_league_list_operations.py   # Python script with list operations
+├── README.md                           # Task description and proof of work
+├── screenshots/
+│   ├── step1_initial_list.png
+│   ├── step2_added_members.png
+│   ├── step3_leader_changed.png
+│   ├── step4_conflict_resolved.png
+│   ├── step5_new_team.png
+│   └── step6_sorted_team.png
+└── video/
+    └── task03_explanation.mp4          # Your video explanation (optional)
+
 # SHADOWFOX_Python_Task03
-SHADOWFOX_Python_Task03/ │ ├── bmi_and_city_checker.py        # Main Python script combining both programs ├── README.md                      # Project overview and instructions ├── screenshots/ │   ├── bmi_output.png             # Screenshot of BMI input/output │   └── city_output.png           
 
+## 🦸 Justice League List Operations
 
-# SHADOWFOX_Python_Task03
+This task demonstrates mastery of Python list operations by managing and transforming a list of superheroes.
 
-## 🔍 Task Overview
+### ✔️ Operations Performed:
+1. Counted the members
+2. Added Batgirl and Nightwing
+3. Promoted Wonder Woman as leader
+4. Resolved a conflict between Flash and Aquaman by inserting Superman
+5. Replaced the team with a new lineup
+6. Sorted the list alphabetically to identify the new leader
 
-This task demonstrates Python's use of conditional statements (`if`, `elif`, `else`) in solving real-world problems.
-
-### 🚀 Features
-1. **BMI Category Checker**:  
-   - Takes height and weight from user input  
-   - Calculates BMI  
-   - Displays category (Underweight, Normal, Overweight, Obesity)
-
-2. **City-to-Country Identifier**:  
-   - Identifies the country of a given city from a predefined list (India, UAE, Australia)
-
-## 🧠 Concepts Practiced
-- Conditional logic
-- User input handling
-- Data categorization
-- Basic list membership checks
-
-## 📸 Screenshots
-![BMI Output](screenshots/bmi_output.png)  
-![City Output](screenshots/city_output.png)
+### 🧠 Concepts Covered
+- List methods: `append()`, `insert()`, `remove()`, `sort()`
+- Indexing and list modification
+- Step-by-step output tracking
 
 ## 📽️ Video Explanation
-[Watch on YouTube / Google Drive](#)
+[Add your video link or upload in `/video/` folder]
 
-## 📂 File Info
-- `bmi_and_city_checker.py`: Python script for both tasks.
+## 📸 Screenshots
+Screenshots of each step are stored in the `screenshots/` folder.
 
 ---
-
-✅ Completed as part of the **ShadowFox Internship - Task 03**
-
+🛠️ Internship: ShadowFox – Task 03
